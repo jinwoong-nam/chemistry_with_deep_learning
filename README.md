@@ -16,7 +16,7 @@ Deep learning models are useful for tackling many applications (e.g., image clas
 ## File Descriptions <a name="files"></a>
 Each notebook file investigates different topics or projects ranging from basic operations of PyTorch to solving chemistry problems with deep learning.  
 The repository includes three folders below.  
-- **PyTorch_Basics**: The basic operation of PyTorch and projects such as MNIST
+- **PyTorch_Basics**: The basic operation of PyTorch and projects such as MNIST and CIFAR-10
 - **Project1_Max_Absorption**: Predicted absorption maximum wavelength of organic compounds by developing multilayer perceptron models with thousands of actual experimental data from [https://doi.org/10.1038/s41597-020-00634-8](https://doi.org/10.1038/s41597-020-00634-8).
 - **Project2_HOMO_LUMO_Gap**: Developed graph neural network (GNN) models using molecular graph and atom features for prediction of the HOMO-LUMO gap for 10,000 organic molecules obtained from the DFT calculation database (reference: [https://doi.org/10.1021/acs.jcim.0c00740](https://doi.org/10.1021/acs.jcim.0c00740)).
 
